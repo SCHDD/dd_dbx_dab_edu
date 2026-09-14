@@ -5,7 +5,7 @@ bundle:
   uuid: 86f242e8-f899-4aa6-9a54-5792a7ab34a2
 
 include:
-  - resources/*.yml
+  - resources/*.job.yml
 
 artifacts:
   python_artifact:
